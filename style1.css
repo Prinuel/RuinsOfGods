@@ -2,6 +2,7 @@ body{
     width:100%;
     display:flex;
     justify-content: center;
+    margin:20px auto;
 }
 .overall{
     max-width: 1600px;
