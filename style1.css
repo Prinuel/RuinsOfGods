@@ -60,6 +60,10 @@ li{
     list-style: none;
     font:bold 20px garamond;
 }
+a{
+    text-decoration: none;
+    color:black;
+}
 #bgvid{
     display:flex;
     position:relative;
