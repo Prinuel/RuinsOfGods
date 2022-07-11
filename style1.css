@@ -76,7 +76,7 @@ a{
     position:absolute;
     gap:30px;
     background:rgba(0,0,0,.3);
-    border:10px solid lightslategray;
+    /* border:10px solid lightslategray; */
     border-radius: 25px;
     padding:10px;
     align-items: center;
