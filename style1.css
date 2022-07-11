@@ -5,10 +5,11 @@ body{
     margin:20px auto;
 }
 .overall{
-    max-width: 1400px;
+    /* max-width: 1400px; */
     display:flex;
     flex-direction: column;
     flex:1;
+    max-width:99%;
   
 }
 .head{
@@ -81,7 +82,7 @@ a{
     padding:10px;
     align-items: center;
     justify-content: center;
-    max-width:100%;
+    /* max-width:100%; */
     max-width:1000px;
 }
 .left{
