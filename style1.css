@@ -147,7 +147,7 @@ h3{
     flex-direction: column;
     background-image: url(./images/bloodsky.jpg);
     background-image: cover;
-    padding:105px;
+    padding:93px;
     text-align: center;
     align-items: center;
     font:bold 20px garamond;
@@ -155,7 +155,7 @@ h3{
 }
 .other footer{
     text-align:right;
-    margin-top:-30px;
+    margin-top:-6px;
     margin-left:1071px;
 }
 .call{
